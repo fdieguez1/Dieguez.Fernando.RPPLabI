@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1626473251 source:c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+	"datawarehouse.h"
+	"ui.h"
+	"Randomizer.h"
+
+1626473013 c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\alquiler.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"date.h"
+	"cliente.h"
+	"juego.h"
+
+1626462630 c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\date.h
+
+1626453114 c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"categoria.h"
+	"localidad.h"
+
+1626451792 c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\categoria.h
+
+1626451616 c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\localidad.h
+
+1626464982 c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\juego.h
+	"categoria.h"
+
+1626448236 c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\datawarehouse.h
+	"date.h"
+
+1626473104 c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\ui.h
+
+1626469099 c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\randomizer.h
+
+1626454523 source:c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\categoria.c
+	<stdio.h>
+	<string.h>
+	"categoria.h"
+	"datawarehouse.h"
+	"inputs.h"
+	"ui.h"
+
+1626462611 c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\inputs.h
+	"date.h"
+
+1626469326 source:c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\cliente.c
+	<ctype.h>
+	"datawarehouse.h"
+	"cliente.h"
+	"inputs.h"
+	"validations.h"
+	"ui.h"
+	"randomizer.h"
+
+1626439574 c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\validations.h
+
+1626468905 source:c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\datawarehouse.c
+	"date.h"
+
+1626448470 source:c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\date.c
+	<stdio.h>
+	"date.h"
+	"inputs.h"
+
+1626220287 source:c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\fecha.c
+
+1626478997 source:c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+	"ui.h"
+	"inputs.h"
+
+1626479077 c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\informes.h
+	"juego.h"
+	"cliente.h"
+	"categoria.h"
+	"alquiler.h"
+
+1626448490 source:c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputs.h"
+	"ui.h"
+
+1626469198 source:c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\juego.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"juego.h"
+	"datawarehouse.h"
+	"inputs.h"
+	"ui.h"
+	"Randomizer.h"
+
+1626466655 source:c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\localidad.c
+	<stdio.h>
+	<string.h>
+	"datawarehouse.h"
+	"localidad.h"
+	"inputs.h"
+	"ui.h"
+
+1626479104 source:c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Randomizer.h"
+	"juego.h"
+	"cliente.h"
+	"alquiler.h"
+	"localidad.h"
+	"ui.h"
+	"inputs.h"
+	"informes.h"
+
+1626469040 source:c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\randomizer.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Randomizer.h"
+
+1626479096 source:c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\ui.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ui.h"
+
+1626438995 source:c:\users\ferna\source\repos\recuperatoriolabo\dieguez.fernando.rpplabi\dieguez.fernando.rpplaboi\validations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validations.h"
+
